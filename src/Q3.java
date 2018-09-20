@@ -13,6 +13,6 @@ public class Q3 {
         Scanner in = new Scanner(System.in);
 
         System.out.print("Please enter your name: ");
-        output += in.nextLine()
+        output += in.nextLine();
     }
 }

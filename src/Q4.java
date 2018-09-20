@@ -44,7 +44,8 @@ public class Q4 {
     }
 
     private static String getSurname(){
-         return  name.substring(name.lastIndexOf(" "),name.length()-1);
+
+        return  name.substring(name.lastIndexOf(" "),name.length()-1);
     }
 
     static private void showResults(int n, char i, String c, String s){
